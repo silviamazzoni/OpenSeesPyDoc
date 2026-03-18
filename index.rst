@@ -7,9 +7,9 @@
 
 .. important::
 
-   Version |opspy_version| is released!
+   Version |opspy_version| is released for Linux, Windows, and Mac (ARM64)!
 
-   Python |python_version| is required for Windows.
+   Python |python_version| is required.
 
    OpenSeesPy is on :doc:`src/pypi`.
 
